@@ -49,7 +49,7 @@ if(Time.time > minimumLogoTime && loadTime != 0)
 	if(fadeGroup.alpha >= 1)
 	{
 		//Debug.Log("muda a cena");
-        SceneManager.LoadScene("pipasmenu");
+        SceneManager.LoadScene("Tela_registro");
 	}
     }
 }
