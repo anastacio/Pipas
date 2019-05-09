@@ -17,8 +17,8 @@ namespace IndiePixel.UI
 
         [Header("Fader Properties")]
         public Image m_Fader;
-        public float m_FadeInDuration = 1f;
-        public float m_FadeOutDuration = 1f;
+        public float m_FadeInDuration = 2f;
+        public float m_FadeOutDuration = 2f;
 
         private Component[] screens = new Component[0];
 
